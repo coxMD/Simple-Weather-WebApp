@@ -1,0 +1,2 @@
+{"coord":{"lon":139.6917,"lat":35.6895},"weather":[{"id":801,"main":"Clouds","description":"few clouds","icon":"02n"}],"base":"stations","main":{"temp":293.58,"feels_like":293.66,"temp_min":290.73,"temp_max":295.68,"pressure":1018,"humidity":76},"visibility":10000,"wind":{"speed":3.6,"deg":320},"clouds":{"all":20},"dt":1664648350,"sys":{"type":2,"id":2038398,"country":"JP","sunrise":1664656581,"sunset":1664699099},"timezone":32400,"id":1850144,"name":"Tokyo","cod":200}
+
